@@ -181,6 +181,15 @@ o	Load the saved model for making predictions in the web application.
 3.	Data Quality: Use more comprehensive datasets and handle missing values more effectively.
 4.	User Experience: Improve visualizations and incorporate real-time data for a more interactive experience.
 
+<img width="915" height="647" alt="image" src="https://github.com/user-attachments/assets/f3d77f47-43bf-4a4f-a806-499630091119" />
+<img width="915" height="954" alt="image" src="https://github.com/user-attachments/assets/0e4e4934-0145-4f68-9247-4bdd958fee5a" />
+<img width="915" height="912" alt="image" src="https://github.com/user-attachments/assets/69edd62b-e5d5-4b8c-b62e-35e8126ea4d6" />
+<img width="915" height="1062" alt="image" src="https://github.com/user-attachments/assets/1452c533-5c2f-4956-944f-b798c83c3951" />
+<img width="915" height="919" alt="image" src="https://github.com/user-attachments/assets/3531409e-a248-408e-ba6c-fe11ecd3e804" />
+
+
+
+
 # Conclusion
 The current stock price prediction model provides a solid foundation for forecasting, using historical data with LSTM. Future improvements can enhance accuracy and user experience, making the model more robust and valuable for real-world applications.
 
